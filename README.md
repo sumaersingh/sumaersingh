@@ -1,4 +1,4 @@
-<h1 allign="center">Hello, I'm Sumaer! 👋</h1>
+<h1 align="center">Hello, I'm Sumaer 👋,</h1>h1>
 
 
 - 🔭 I’m currently working on a game development project and a personal portfolio website 
