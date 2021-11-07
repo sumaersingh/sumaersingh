@@ -12,4 +12,4 @@
 - ⚡ Fun fact: I enjoy playing videogames!
 
 <h3 align="left">Languages and Resources:</h3>
-
+<p align="left"> <a href="https://www.python.org" target="_blank"> <img src="http://assets.stickpng.com/images/5848152fcef1014c0b5e4967.png" alt="aws" width="40" height="40"/> 
