@@ -1,4 +1,5 @@
-### Hello, I'm Sumaer! 👋
+                                                                        **Hello, I'm Sumaer!** 👋
+
 
 - 🔭 I’m currently working on a game development project and a personal portfolio website 
 
