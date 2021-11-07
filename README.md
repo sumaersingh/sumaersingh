@@ -1,5 +1,6 @@
 <h1 align="center">Hello, I'm Sumaer 👋,</h1>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sumaersingh&label=Profile%20views&color=0e75b6&style=flat" alt="sumaersingh" /> </p>
 
 - 🔭 I’m currently working on a game development project and a personal portfolio website 
 
