@@ -11,6 +11,5 @@
 
 - ⚡ Fun fact: I enjoy playing videogames!
 
-**Languages and Resources**
-
+<h3 align="left">Languages and Resources:</h3>
 
