@@ -12,7 +12,7 @@
 - ⚡ Fun fact: I enjoy playing videogames!
 
 <h3 align="left">Languages and Resources:</h3>
-<p align="left"> <a href="https://www.python.org" target="_blank"> <img src="5848152fcef1014c0b5e4967](https://user-images.githubusercontent.com/77022040/140637960-b8cad533-a6b4-43a1-a67f-2a5c7777a072.png" alt="aws" width="40" height="40"/> 
+<p align="left"> <img src="5848152fcef1014c0b5e4967](https://user-images.githubusercontent.com/77022040/140637960-b8cad533-a6b4-43a1-a67f-2a5c7777a072.png" alt="aws" width="40" height="40"/> 
 
   
   
