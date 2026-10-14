@@ -11,7 +11,7 @@
 <h3>🔭 Right now</h3>
 
 <ul>
-  <li>🏨 <b>Investment Analyst Intern @ Ventive Hospitality</b> (Blackstone's hospitality platform in India), Fall 2026.</li>
+  <li>🏨 <b>Investment Analyst Intern @ Ventive Hospitality</b> (Blackstone's real estate hospitality platform), Fall 2026.</li>
   <li>🛠️ <b>Co-organizing a 24-hour hackathon in Waterloo</b> for ~150–200 builders. I'm the finance kid who hangs around engineers, and I'd like to keep it that way.</li>
   <li>📈 <b>Running a thematic ETF portfolio</b> (semis, nuclear, quantum, robotics, defense). For each position I write down what would prove me wrong before I buy it.</li>
 </ul>
